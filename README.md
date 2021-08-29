@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HeroJJ555
+- 👀 I’m interested in programing , tennis and windsurfing
+- 🌱 I’m currently learning Java and JavaScript
+- 💞️ I’m looking to collaborate on my future project (more info on contact)
+- 📫 How to reach me -> Discord: HeroJJ#0001 | -> E-Mail: jan.minecraft@poczta.fm (In topic type: Github-Contact )
