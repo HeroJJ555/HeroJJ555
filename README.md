@@ -7,6 +7,13 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Voice-ElevenLabs-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLPK.js-4B4B4B?style=for-the-badge&logo=code&logoColor=white" />
 </p>
 
 ---
@@ -36,7 +43,8 @@ const stack = [
   "Next.js", "TailwindCSS", "TypeScript",
   "Framer Motion", "ShadCN UI", "Vercel",
   "Figma", "Midjourney", "ChatGPT",
-  "ElevenLabs", "CapCut", "Markdown"
+  "ElevenLabs", "CapCut", "Java",
+  "C++", "Spring", "Jest"
 ];
 ````
 
